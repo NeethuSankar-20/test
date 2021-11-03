@@ -1,0 +1,90 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.heading{
+    text-align: center;
+    margin-top: 20%;
+    font-size: 70px;
+    font-family: serif;
+    color: lavender;
+}
+
+
+body{
+    background-size: cover;
+}
+header{
+    background-color:black;
+    height:5em;
+}
+img{
+    margin-top: 2cm;
+}
+.head-tag{
+    float:right;
+    margin-top: 33px;
+    margin-right: 55px;
+}
+.head-tag a{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    color: white;
+    border: 1px solid white;
+    padding: 8px;
+    margin-right: 8px;
+}
+.head-tag a:hover{
+    background-color: darkolivegreen;
+    color: black;
+    transition: 0.5s ease-in-out;
+}
+.container{
+    margin-left: 3%;
+    margin-top: 20%;
+}
+
+.p-box{
+    border: 2px solid white;
+    width: 22%;
+    float:left;
+    margin-left: 10px;
+    height: 13em;
+    padding: 5px;
+    background-color: lavenderblush;
+    margin-top: 10px;
+}
+
+.description{
+        margin-top: 0%;
+        font-size: 30px;
+        font-family: serif;
+        color: lavender;
+        text-align: center;
+}
+
+.p-box h3{
+    text-align: center;
+}
+
+.p-box p{
+    line-height: 1.25em;
+    text-align: justify;
+}
+
+.p-box a{
+    text-decoration: none;
+    color: red;
+}
+
+footer{
+    background-color: black;
+    color:white;
+    height: 1.5em;
+    margin-top: 85%;
+}
+
+footer h3{
+    text-align: center;
+}
